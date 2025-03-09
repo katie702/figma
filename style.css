@@ -1,0 +1,25 @@
+body {
+   text-align: center;
+}
+h1{
+    background-color: rgb(194, 167, 127);
+    color: white;
+}
+h2{
+    background-color:rgb(194, 167, 127) ;
+    color: white;
+}
+img {
+    width: 350px;
+    height: auto;
+    margin-top: 20px;
+}
+ul {
+    text-align: left;
+    color: darkred;
+    font-size: 30px;
+}
+.gallery {
+   display: flex;
+   justify-content: space-around;
+}
