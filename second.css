@@ -1,3 +1,6 @@
+header{
+    color: rgb(150, 111, 60);
+}
 body {
    text-align: center;
 }
@@ -5,16 +8,30 @@ h1{
     color:white;
     background-color: darkred;
 }
-.set{
-    border: 10px solid rgb(173, 143, 104);
-    width: 300px;
+.section{
+    width: 1000px;
     height: 200px;
-    float: left;
-    margin-right: 10px;
+    margin: 0 auto;
     margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
 }
 ul{
    text-align: left;
     color: darkred; 
     font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.styled{
+    color: rgb(150, 111, 60);
+    background-color: white;
+}
+p{
+    background-color: darkred;
+    color: white;
+    font-size: 25px;
+}
+footer {
+    color: rgb(150, 111, 60);
 }
