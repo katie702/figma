@@ -5,6 +5,7 @@ a {
  color: white;
  background-color: rgb(194, 167, 127) ;
  text-decoration: none;
+ border-radius: 10px;
 }
 body {
    text-align: center;
