@@ -1,3 +1,6 @@
+header{
+    color: rgb(150, 111, 60);
+}
 body {
    text-align: center;
 }
@@ -22,4 +25,7 @@ ul {
 .gallery {
    display: flex;
    justify-content: space-around;
+}
+footer {
+    color: rgb(150, 111, 60);
 }
