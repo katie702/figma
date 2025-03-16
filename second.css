@@ -1,6 +1,10 @@
 header{
     color: rgb(150, 111, 60);
 }
+a href{
+ color: white;
+ background-color: rgb(150, 111, 60);
+}
 body {
    text-align: center;
 }
